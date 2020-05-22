@@ -1,3 +1,14 @@
+############################################################
+#
+# NAVER WEBTOON DOWNLOAD V_1
+# 
+# (c) www.webtoon.ga & www.sites.ga
+#
+# More Info https://blog.naver.com/the3countrys/221959813946
+#
+# Donation Bitcoin: 3JmNLneiLvvNtcxGrnBjuemuqJbT44fzdq
+#
+#############################################################
 import tkinter
 from bs4 import BeautifulSoup
 import requests
